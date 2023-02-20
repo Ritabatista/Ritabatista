@@ -1,14 +1,4 @@
-### Hi there! Eu sou  a Rita Batista
-
-<!--
-**Ritabatista/Ritabatista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🌱 I’m currently learning  java
-- 👯 I’m looking to collaborate on  back-end
-- 📫 How to reach me: ritacoutobatista@gmail.com
-- 😄 Pronouns: ela/ dela
--->
+### Olá! Eu sou  a Rita Batista
 🌱 Atualmente estou aprendendo Java
 
 😄 Pronomes: ela/ dela
@@ -22,6 +12,9 @@ Here are some ideas to get you started:
  </div>
  
  
+ ##
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark)
+ ##
  
  <div> 
   <a href="https://instagram.com/euritabatista?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
