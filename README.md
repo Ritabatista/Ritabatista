@@ -1,7 +1,7 @@
 ### Olá! Eu sou  a Rita Batista
 🌱 Atualmente estou aprendendo Java
 
-😄 Pronomes: ela/ dela
+😄 Pronomes: ela/dela
 
 
 <div style="display: inline_block"><br>
@@ -11,9 +11,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </div>
  
- 
  ##
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritabatista&show_icons=true&theme=onedark)
  ##
  
  <div> 
