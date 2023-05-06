@@ -1,7 +1,8 @@
 ### Olá! Eu sou  a Rita Batista
 ##
 ☕ Atualmente estou focada no estudo da linguagem java
-💻 Curso Analise eDsenvolvimento de Sistema (Uninassau)
+
+💻 Curso Analise eDsenvolvimento de Sistema (Uninassau
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
